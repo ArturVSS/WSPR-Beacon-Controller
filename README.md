@@ -4,6 +4,7 @@ WSPR Beacon Controller
 ![www](https://github.com/user-attachments/assets/597f607a-e609-4563-bfad-a03fd341e803)
 
 
+Film z krótkim opisem działania:
 https://youtu.be/uAclQGd_gA8
 
 
@@ -90,6 +91,9 @@ The controller allows you to set 5 schedules with the ability to set the day, ti
 Connection:
 
 WSPR Beacon:
+
+Video with a short description of how it works:
+https://youtu.be/uAclQGd_gA8
 
 ![wspr_board](https://github.com/user-attachments/assets/d3cef5c9-f7b3-47c4-b702-5d3626a87345)
 
