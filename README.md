@@ -27,6 +27,7 @@ Beacon WSPR:
 Podłaczenie bbeacona do WEMOS:
 
 Beacon   ->   WEMOS
+
 RX       ->   GPIO3
 
 TX       ->   GPIO1
@@ -35,6 +36,7 @@ GND      ->   GND
 
 +5V      ->   5V
 
+-----------------------------------------------------------------------------------------------
 
 Podłaczenie OLED:
 
