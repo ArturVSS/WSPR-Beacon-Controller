@@ -20,5 +20,9 @@ Kontroler pozwala na ustawienie 5 harmonogramów z możliwością ustawienia dni
 
 Podłączenie:
 
-Wemos D1: 
+Beacon WSPR:
+
+![wspr_board](https://github.com/user-attachments/assets/d3cef5c9-f7b3-47c4-b702-5d3626a87345)
+
+
 
