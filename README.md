@@ -16,7 +16,7 @@ Po podłaczeniu płytki WEMOS do sterownika beacona zbudowanego na procesorze AT
 - lokatora
 - mocy
 
-Kontroler pozwala na ustawienie 5 harmonogramów z możliwością ustawienia dnia, godziny i czestotliwości pozwalając na zmianę częstotliwości w zależności od propagacji. Na stronie WWW pokazuje godzinę wysłania ostatniego stringu do beacona, odebrana ramkę potwierdzającą przyjęcie komendy jak rónież wysłania beaconu WSPR. Na wyświetlaczu OLED po wysłaniu stringu zmieniającego parametry wartości te pokazują się na ekranie. Po 30 sekundach ekran wygasza się, ponowne uruchomienie następuje po naciśnięciu przycisku. Wszytskie parametry ustawiane na stronie WWW jak i harmonogramy zapisywane sa w pamięci nieulotnej i po uruchomieniu są nadal działające.
+Kontroler pozwala na ustawienie 5 harmonogramów z możliwością ustawienia dnia, godziny i czestotliwości pozwalając na zmianę częstotliwości w zależności od propagacji. Na stronie WWW pokazuje godzinę wysłania ostatniego stringu do beacona, odebrana ramkę potwierdzającą przyjęcie komendy jak rónież wysłania beaconu WSPR. Na wyświetlaczu OLED po wysłaniu stringu zmieniającego parametry wartości te pokazują się na ekranie. Po 30 sekundach ekran wygasza się, ponowne uruchomienie następuje po naciśnięciu przycisku na porcie GPIO15 zwierany do 3V3. Wszytskie parametry ustawiane na stronie WWW jak i harmonogramy zapisywane sa w pamięci nieulotnej i po uruchomieniu są nadal działające.
 
 Podłączenie:
 
@@ -79,7 +79,7 @@ After connecting the WEMOS board to the beacon controller based on the ATMEGA 32
 - locator
 - power
 
-The controller allows you to set 5 schedules with the ability to set the day, time, and frequency, allowing you to change the frequency depending on the propagation. The website displays the time the last string was sent to the beacon, the received frame confirming command acceptance, and the sending of the WSPR beacon. After sending a string changing the parameters, these values ​​appear on the OLED display. After 30 seconds, the screen goes blank; restarting is achieved by pressing a button. All parameters set on the website and schedules are saved in non-volatile memory and remain operational after restart.
+The controller allows you to set 5 schedules with the ability to set the day, time, and frequency, allowing you to change the frequency depending on the propagation. The website displays the time the last string was sent to the beacon, the received frame confirming command acceptance, and the sending of the WSPR beacon. After sending a string changing the parameters, these values ​​appear on the OLED display. After 30 seconds, the screen goes blank; restarting is achieved by pressing a button on the GPIO15 port shorted to 3V3. All parameters set on the website and schedules are saved in non-volatile memory and remain operational after restart.
 
 Connection:
 
