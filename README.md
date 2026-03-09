@@ -74,6 +74,9 @@ WSPR Beacon Controller
 
 The system consists of a Wemos D1mini board and an optional OLED display.
 
+Video with a short description of how it works:
+https://youtu.be/uAclQGd_gA8
+
 Connected to a WSPR beacon purchased from the following link:
 
 https://www.banggood.com/pl/SI5351-WSPR-Transmitter-with-TCXO-and-GPS-for-Stable-Frequency-Sync-Auto-QTH-Locator-23dBm-Output-p-2043151.html
@@ -92,8 +95,6 @@ Connection:
 
 WSPR Beacon:
 
-Video with a short description of how it works:
-https://youtu.be/uAclQGd_gA8
 
 ![wspr_board](https://github.com/user-attachments/assets/d3cef5c9-f7b3-47c4-b702-5d3626a87345)
 
