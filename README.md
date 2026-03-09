@@ -24,7 +24,10 @@ Beacon WSPR:
 
 ![wspr_board](https://github.com/user-attachments/assets/d3cef5c9-f7b3-47c4-b702-5d3626a87345)
 
-Podłaczenie bbeacona do WEMOS:
+<img width="538" height="365" alt="WeMos-D1-Mini-Pinout" src="https://github.com/user-attachments/assets/6a422306-e107-4c8d-b658-128dd6aef174" />
+
+
+Podłaczenie beacona do WEMOS:
 
 Beacon   ->   WEMOS
 
