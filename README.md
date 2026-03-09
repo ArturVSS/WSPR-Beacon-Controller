@@ -28,15 +28,21 @@ Podłaczenie bbeacona do WEMOS:
 
 Beacon   ->   WEMOS
 RX       ->   GPIO3
+
 TX       ->   GPIO1
+
 GND      ->   GND
+
 +5V      ->   5V
 
 Podłaczenie OLED:
 
 OLED   ->   WEMOS
+
 SDA    ->   GPIO4
+
 SCL    ->   GPIO5
+
 GND    ->   GND
 +3V3   ->   3V3
 
