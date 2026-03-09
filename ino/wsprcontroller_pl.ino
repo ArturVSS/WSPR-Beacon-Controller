@@ -64,8 +64,8 @@ bool          displayOn  = true;
 unsigned long dimMillis  = 0;
 
 //------------------ KONFIGURACJA WIFI ------------------
-const char* WIFI_SSID     = "Xiaomi2G";
-const char* WIFI_PASSWORD = "dupablada";
+const char* WIFI_SSID     = "SSID";
+const char* WIFI_PASSWORD = "password";
 
 const bool USE_STATIC_IP = false;
 
