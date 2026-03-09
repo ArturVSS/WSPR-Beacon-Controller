@@ -1,6 +1,8 @@
 # WSPR-Beacon-Controller
 WSPR Beacon Controller
 
+![www](https://github.com/user-attachments/assets/7bdc9775-47bc-4a23-9792-8da5e65d5990)
+
 
 Układ składa jest w płytki Wemos D1mini  i opcjonalnego wyświetlacza OLED
 
