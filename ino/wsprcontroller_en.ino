@@ -80,7 +80,7 @@ ESP8266WebServer server(80);
 
 //------------------ NTP ------------------
 WiFiUDP ntpUDP;
-NTPClient timeClient(ntpUDP, "vega.cnk.poznan.pl", 0, 60 * 60 * 1000);
+NTPClient timeClient(ntpUDP, "vega.cbk.poznan.pl", 0, 60 * 60 * 1000);
 
 //------------------ LOGIKA APLIKACJI ------------------
 bool alreadySentHW = false;
